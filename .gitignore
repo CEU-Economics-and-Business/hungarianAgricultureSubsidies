@@ -1,10 +1,13 @@
 .idea
 input/csv/*
 input/zip/*
+!input/zip/old_2010.csv.zip
 input/settlements/raw/settlements.xls
 output/*
+imgs
 geocode/**/agrar_raw_*
 geocode/agrar_output*
 scripts/.ipynb_checkpoints
 local/*
 venv
+.Rproj.user

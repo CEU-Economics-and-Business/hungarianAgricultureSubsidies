@@ -1,4 +1,3 @@
-Az MTA Nyelvtudományi Intézete által anyakönyvi bejegyzésre alkalmasnak minősített utónevek jegyzéke: férfinevek -- 2019. november 1.
 Aba
 Abád
 Abbás
@@ -331,6 +330,7 @@ Bese
 Beten
 Betlen
 Bihar
+Bjárke
 Björn
 Boáz
 Bocsárd
@@ -551,6 +551,7 @@ Egmont
 Egon
 Egyed
 Éhúd
+Ejnár
 Ékám
 Elád
 Eldon
@@ -575,6 +576,7 @@ Elton
 Elvir
 Emánuel
 Emeka
+Emett
 Emil
 Emilián
 Emir
@@ -1080,6 +1082,7 @@ Levedi
 Levente
 Lévi
 Levin
+Lex
 Liam
 Liberátusz
 Libériusz
@@ -1186,6 +1189,7 @@ Merse
 Metód
 Mihály
 Mika
+Mikáél
 Mikán
 Mike
 Mikeás
@@ -1194,6 +1198,7 @@ Mikió
 Miklós
 Mikó
 Miksa
+Milad
 Milán
 Milen
 Milián
@@ -1243,6 +1248,7 @@ Nasszer
 Nátán
 Nátánael
 Nataniel
+Nátániel
 Navid
 Názár
 Nelzon
@@ -1277,6 +1283,7 @@ Nónusz
 Norbert
 Norik
 Norisz
+Norm
 Norman
 Norton
 Norvard
@@ -1312,6 +1319,7 @@ Orion
 Orlandó
 Ormos
 Oros
+Oszama
 Oszkár
 Oszlár
 Osszián
@@ -1411,6 +1419,8 @@ Rasszel
 Rátold
 Raúf
 Raul
+Raúl
+Raziel
 Razmus
 Rázsony
 Redmond
@@ -1552,6 +1562,7 @@ Szigfrid
 Szilamér
 Szilárd
 Szilas
+Szilász
 Szilvánusz
 Szilver
 Szilvér
@@ -1562,6 +1573,7 @@ Szindbád
 Szinisa
 Szíriusz
 Szixtusz
+Szkott
 Szofron
 Szókratész
 Szólát

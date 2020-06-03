@@ -1,4 +1,3 @@
-Az MTA Nyelvtudományi Intézete által anyakönyvi bejegyzésre alkalmasnak minősített utónevek jegyzéke: női nevek -- 2019. november 1.
 Abélia
 Abiáta
 Abigél
@@ -36,6 +35,7 @@ Adrienna
 Afrodita
 Afrodité
 Afszana
+Agapi
 Agáta
 Ági
 Aglája
@@ -234,6 +234,7 @@ Antónia
 Antoniett
 Antonietta
 Anzelma
+Ánya
 Apol
 Apolka
 Apollinária
@@ -262,6 +263,7 @@ Arikán
 Arina
 Arinka
 Arita
+Arlena
 Arlett
 Armanda
 Armandina
@@ -272,6 +274,7 @@ Armilla
 Arna
 Árnika
 Arnolda
+Arona
 Árpádina
 Artemisz
 Artemízia
@@ -301,6 +304,7 @@ Aurea
 Aurélia
 Aurora
 Auróra
+Avani
 Avarka
 Aviána
 Avitál
@@ -346,6 +350,7 @@ Béke
 Bekka
 Belinda
 Bella
+Bellaróza
 Bellatrix
 Benáta
 Benedetta
@@ -487,6 +492,7 @@ Dafné
 Dála
 Dalanda
 Dália
+Daliborka
 Dalida
 Dalla
 Dalma
@@ -518,6 +524,7 @@ Delfina
 Délia
 Délibáb
 Delila
+Delina
 Delinda
 Delinke
 Della
@@ -543,6 +550,7 @@ Dia
 Diana
 Diána
 Diandra
+Didra
 Diké
 Dilara
 Dimitra
@@ -673,6 +681,7 @@ Emiliána
 Emina
 Emíra
 Emma
+Emmaléna
 Emmaróza
 Emmi
 Emő
@@ -706,6 +715,7 @@ Erzsébet
 Erzsi
 Esma
 Estella
+Estike
 Estilla
 Eszmeralda
 Esztella
@@ -983,6 +993,7 @@ Ilona
 Ilonka
 Ilus
 Iluska
+Ilza
 Ilze
 Imela
 Imelda
@@ -1080,6 +1091,7 @@ Jolánta
 Joli
 Jolina
 Jonka
+Jonna
 Jordána
 Joszina
 Jována
@@ -1272,6 +1284,7 @@ Léni
 Lenita
 Lenka
 Lenke
+Lenor
 Lenóra
 Leona
 Leonarda
@@ -1328,6 +1341,7 @@ Lióra
 Lira
 Líra
 Líria
+Lita
 Lítia
 Lívia
 Liviána
@@ -1355,6 +1369,7 @@ Lona
 Lóna
 Lonci
 Lora
+Lorabella
 Lorella
 Lorena
 Loréna
@@ -1526,6 +1541,7 @@ Mici
 Miett
 Mietta
 Mihaéla
+Mikaéla
 Mikolt
 Mila
 Milágrosz
@@ -1749,6 +1765,7 @@ Ozora
 Örzse
 Őszike
 Őzike
+Padma
 Pálma
 Palmira
 Paloma
@@ -1933,6 +1950,7 @@ Sera
 Serihen
 Seron
 Sifra
+Sina
 Sirá
 Siváni
 Skolasztika
@@ -1996,6 +2014,7 @@ Szépa
 Szépe
 Szera
 Szerafina
+Szerah
 Szeréna
 Szerénke
 Szerkő
@@ -2009,6 +2028,7 @@ Szidalisz
 Szidi
 Szidónia
 Sziéna
+Szierra
 Sziglind
 Szilárda
 Szille
@@ -2041,6 +2061,7 @@ Szixtina
 Szkarlett
 Szkilla
 Szmirna
+Sznezsana
 Szofi
 Szofia
 Szófia
@@ -2055,6 +2076,7 @@ Szona
 Szonja
 Szonóra
 Szoraja
+Szoria
 Szorina
 Szörénke
 Sztavrula
